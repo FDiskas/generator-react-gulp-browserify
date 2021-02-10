@@ -32,7 +32,7 @@
     "gulp"
   ],
   "dependencies": {
-    "yeoman-generator": "~2.0.5",
+    "yeoman-generator": "~4.11.0",
     "chalk": "~0.4.0",
     "snyk": "^1.231.0"
   },
